@@ -1,1 +1,41 @@
+# TechMate AI — IT Study Chatbot
+
+A web-based AI study assistant built for IT students covering 4 specialised streams.
+
+## Streams
+- 🌐 Network Management
+- 💻 Software Development
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+
+## Features
+- AI-powered chat tutor for each stream
+- Quiz engine with 3 difficulty levels (Easy, Medium, Hard)
+- XP and scoring system
+- Study resources per stream
+- Project roadmap
+
+ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python, Flask
+- AI Model: LLaMA 3.3 70B via Groq API
+
+ How to Run
+1. Clone the repository
+2. Install dependencies:
+   pip install flask flask-cors groq python-dotenv
+3. Create a .env file and add your Groq API key:
+   GROQ_API_KEY=your_key_here
+4. Run the server:
+   python app.py
+5. Open your browser at http://127.0.0.1:5000
+
+   Live Demo
+ https://ch-at-bo-t.onrender.com
+
+ Group Members
+- Lehlogonolo Ledwaba
+- Murunwa Mudzhadzhi
+- Leslie Kekane
+- Mutshutshudzi Nemanashi
 
