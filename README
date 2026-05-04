@@ -1,14 +1,14 @@
-# TechMate AI — IT Study Chatbot
+TechMate AI — IT Study Chatbot
 
 A web-based AI study assistant built for IT students covering 4 specialised streams.
 
-## Streams
+ Streams
 - 🌐 Network Management
 - 💻 Software Development
 - 🔐 Cybersecurity
 - ☁️ Cloud Computing
 
-## Features
+Features
 - AI-powered chat tutor for each stream
 - Quiz engine with 3 difficulty levels (Easy, Medium, Hard)
 - XP and scoring system
